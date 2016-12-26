@@ -1,2 +1,4 @@
 # hello-world
-My first repository
+Hello All,
+
+Tom Sweeney learning the fun of git hub here.
